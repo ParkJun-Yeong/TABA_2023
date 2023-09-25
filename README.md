@@ -34,4 +34,4 @@
     ax2.set_title('Class Probability')
     ax2.set_xlim(0, 1.1)
   ```
-  
+
